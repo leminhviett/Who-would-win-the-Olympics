@@ -12,6 +12,8 @@ Data used in the project can be found here https://www.kaggle.com/heesoo37/120-y
 
 There are 2 raw datasets in csv type. They contains information of characteristics and results of individual athletes competing in individual Olympics event.
 
+More information about the data can be found in the link below. 
+
 # What I have learned
 * End-to-end process of a machine learning project <br>
 * Basic skills of Pandas, Matplotlib and Scikit Learn <br>
