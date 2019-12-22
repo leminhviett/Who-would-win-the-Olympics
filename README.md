@@ -16,5 +16,5 @@ More information about the data can be found in the link below.
 
 # What I have learned
 * End-to-end process of a machine learning project <br>
-* Basic skills of Pandas, Matplotlib and Scikit Learn <br>
-* Machine learning algorithms implemented in Scikit Learn <br>
+* Basic skills of Pandas, Matplotlib, Seaborn and Scikit Learn <br>
+* Machine learning algorithms such as Random Forest, Naive Bayes Classifier, XGBoost, etc. <br>
